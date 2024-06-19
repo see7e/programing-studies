@@ -6,7 +6,13 @@ languages: NULL
 dependences: QGIS
 ---
 
-> [!] Is important to know that I've only copied some points of the original documentation, I'll update the informations only with free time
+> [!IMPORTANT] Is important to know that I've only copied some points of the original documentation, I'll update the informations only with free time
+
+> [LIST OF ALL CLASSES](https://qgis.org/pyqgis/master/)
+
+
+> [!NOTE]
+> I'll remove and summarize this document as soon as I have time to do it
 
 <details> <summary>Full website index</summary>
 
