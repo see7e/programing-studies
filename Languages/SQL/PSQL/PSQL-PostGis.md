@@ -1,6 +1,6 @@
 ---
 title: PSQL PostGis
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: SQL
 dependences: PostgreSQL

@@ -1,6 +1,6 @@
 ---
 title: QGIS Plugin Repository
-tags: studies, programação, qgis, python, plugin
+tags: studies, programming, qgis, python, plugin
 use: Plugin Development
 languages: NULL
 dependences: QGIS3

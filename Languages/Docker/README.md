@@ -1,6 +1,6 @@
 ---
 title: Docker - Basics
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: Docker, yaml
 dependences: NULL

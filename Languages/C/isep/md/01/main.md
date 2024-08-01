@@ -1,6 +1,6 @@
 ---
 title: Algoritmia e Programação - Aula 1
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: C
 dependences: NULL

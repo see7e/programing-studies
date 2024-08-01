@@ -3,94 +3,20 @@ title: How to Scale Software Development
 description: Learn how to design and build scalable software systems to handle increased traffic and user demand.
 date: 2021-10-20
 tags:
-    - system architecture
-    - scalability
-    - continuous integration
-    - continuous deployment
-    - CI/CD
-    - database scaling
-    - deployment platforms
-    - serverless architecture
-    - microservice architecture
-    - serverless functions
-    - cold starts
-    - Lambda functions
-    - API Gateway
-    - Elastic Beanstalk
-    - ECS
-    - EKS
-    - sharding
-    - SQL
-    - NoSQL
-    - managed hosting
-    - containerized platforms
-    - scalability considerations
-    - software development
-    - web development
-    - cloud computing
-    - DevOps
-    - AWS
-    - Azure
-    - GCP
-    - Kubernetes
-    - Docker
-    - software engineering
-    - programming
-    - coding
-    - software architecture
-    - software design
-    - software deployment
-    - software testing
-    - software maintenance
-    - software performance
-    - software security
-    - software documentation
-    - software version control
-    - software licensing
-    - software support
-    - software training
-    - software development lifecycle
-    - software project management
-    - software quality assurance
-    - software requirements
-    - software verification
-    - software validation
-    - software configuration management
-    - software release management
-    - software change management
-    - software build management
-    - software deployment management
-    - software maintenance management
-    - software performance management
-    - software security management
-    - software documentation management
-    - software version control management
-    - software licensing management
-    - software support management
-    - software training management
-    - software development lifecycle management
-    - software project management management
-    - software quality assurance management
-    - software requirements management
-    - software verification management
-    - software validation management
-    - software configuration management management
-    - software release management management
-    - software change management management
-    - software build management management
-    - software deployment management management
-    - software maintenance management management
-    - software performance management management
-    - software security management management
-    - software documentation management management
-    - software version control management management
-    - software licensing management management
-    - software support management management
-    - software training management management
-    - software development lifecycle management management
-    - software project management management management
-    - software quality assurance management management
-    - software requirements
+  - programming
+  - system
+  - architecture
+  - scalability
+  - CI/CD
+  - scaling
+  - API
+  - cloud
+  - DevOps
+  - design
+  - maintenance
+  - security
+  - project
+  - management
 ---
 
 

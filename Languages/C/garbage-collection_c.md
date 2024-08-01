@@ -4,7 +4,7 @@ aliases:
     - /gc
     - /garbage-collector
     - /garbage-collector-documentation
-tags: studies, programação
+tags: studies, programming
 use: Documentation, Garbage Collector
 languages: C
 dependences: gc.h

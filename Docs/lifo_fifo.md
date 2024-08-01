@@ -1,6 +1,6 @@
 ---
 title: LIFO x FIFO
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: NULL
 dependences: NULL

@@ -1,6 +1,6 @@
 ---
 title: Object-oriented Programming - OOP 
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: Python
 dependences: NULL

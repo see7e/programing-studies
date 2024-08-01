@@ -1,6 +1,6 @@
 ---
 title: PYQGIS
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: Python
 dependences: QGIS

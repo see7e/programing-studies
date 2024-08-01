@@ -1,6 +1,6 @@
 ---
 title: PHP
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: PHP
 dependences: NULL

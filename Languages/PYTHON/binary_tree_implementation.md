@@ -1,6 +1,6 @@
 ---
 title: Python - Binary Tree - Implementation
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: Python
 dependences: NULL

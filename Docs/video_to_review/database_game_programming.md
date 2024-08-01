@@ -10,15 +10,12 @@ tags:
     - RPG
     - client-server
     - synchronization
-    - subscription
     - stored procedures
     - permissions
     - security
-    - Rust
     - actor model
     - concurrency control
     - query engine
-    - BitCraft
     - performance optimization
 ---
 

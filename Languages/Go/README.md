@@ -1,6 +1,6 @@
 ---
 title: Go - Basics
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: Go
 dependences: NULL

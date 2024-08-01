@@ -1,6 +1,6 @@
 ---
 title: Timsort - Algorithm
-tags: studies, programação
+tags: studies, programming
 use: Documentation, Algorithms
 languages: NULL
 dependences: NULL

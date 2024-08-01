@@ -1,6 +1,6 @@
 ---
 title: Data Structures
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: NULL
 dependences: NULL
@@ -96,6 +96,15 @@ If data structures are the building blocks of algorithms and computer programs, 
 
 ![Data structure hierarchy](https://cdn.ttgtmedia.com/rms/onlineimages/whatis-data_structure_mobile.png)
 > The data structure hierarchy shows how data types and data structures are related.
+
+# Basic Operations in a data structure
+
+The common operations performed resemble CRUD but in a different way, a basic implementation of a data structure must be capable of:
+
+- Create a new instance of itself;
+- Add and remove elements;
+- Travel all the elements stored (used in the other operations);
+- Search (one or multiple) element(s) stored.
 
 # How to choose a data structure
 

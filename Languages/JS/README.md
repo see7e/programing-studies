@@ -1,6 +1,6 @@
 ---
 title: JS
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: JavaScript
 dependences: NULL

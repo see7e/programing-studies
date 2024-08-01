@@ -1,6 +1,6 @@
 ---
 title: CSS
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: CSS
 dependences: NULL

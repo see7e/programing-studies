@@ -1,6 +1,6 @@
 ---
 title: C - Heap - Implementation
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: C
 dependences: NULL

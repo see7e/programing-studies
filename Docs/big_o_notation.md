@@ -1,6 +1,6 @@
 ---
 title: Big O Notation
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: NULL
 dependences: NULL

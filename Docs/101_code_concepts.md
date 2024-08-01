@@ -1,9 +1,11 @@
 ---
 title: Code Concepts
-tags: studies, programação
+tags:
+  - studies
+  - programming
 use: Documentation
-languages: NULL
-dependences: NULL
+languages: 
+dependences:
 ---
 
 <details> <summary>Table of Contents 🔖</summary>

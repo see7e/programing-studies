@@ -1,6 +1,6 @@
 ---
 title: Pandas e GeoPandas
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: Python
 dependences: Python, pandas

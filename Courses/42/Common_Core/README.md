@@ -3,7 +3,7 @@ title: 42 - Common Core
 tags:
   - "42"
   - common_core
-  - programação
+  - programming
 use: README, Documentation
 languages: C
 dependences:

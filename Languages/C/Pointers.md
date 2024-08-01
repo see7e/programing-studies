@@ -1,6 +1,6 @@
 ---
 title: Pointers
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: C
 dependences: NULL

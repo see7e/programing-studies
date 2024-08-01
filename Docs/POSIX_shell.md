@@ -2,7 +2,7 @@
 title: POSIX Shell
 tags:
   - studies
-  - programação
+  - programming
 use: Documentation
 languages: Bash, Shell
 dependences:

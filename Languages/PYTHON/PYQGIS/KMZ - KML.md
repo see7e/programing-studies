@@ -1,6 +1,6 @@
 ---
 title: KMZ | KML
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: python
 dependences: QGis

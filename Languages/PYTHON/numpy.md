@@ -1,6 +1,6 @@
 ---
 title: NumPy
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: Python
 dependences: numpy

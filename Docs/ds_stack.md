@@ -1,6 +1,6 @@
 ---
 title: Data Structures - Stacks
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: NULL
 dependences: NULL

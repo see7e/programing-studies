@@ -1,6 +1,6 @@
 ---
 title: Python - Django
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: Python
 dependences: Django

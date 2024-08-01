@@ -1,6 +1,6 @@
 ---
 title: Recursion
-tags: studies, programação
+tags: studies, programming
 use: Documentation
 languages: NULL
 dependences: NULL

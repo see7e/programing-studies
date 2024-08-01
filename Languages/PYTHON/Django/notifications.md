@@ -1,6 +1,6 @@
 ---
 title: Python - Django Notifications
-tags: studies, programação, notifications, python, django, channels, websocket, sse
+tags: studies, programming, notifications, python, django, channels, websocket, sse
 use: Documentation
 languages: Python
 dependences: Django, Channels, Redis

@@ -1,7 +1,7 @@
 ---
 title: Shell
 tags:
-  - programação
+  - programming
   - studies
 use: Documentation
 languages: Bash, Shell

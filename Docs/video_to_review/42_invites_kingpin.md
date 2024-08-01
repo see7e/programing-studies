@@ -1,9 +1,13 @@
 ---
 title: 42 invites Joe Grand aka Kingpin!
-tags: programação, 42, cybersecurity, hacking
+tags:
+  - "42"
+  - cybersecurity
+  - hacking
+  - programming
 use: Documentation
-languages: NULL
-dependences: NULL
+languages: 
+dependences:
 ---
 
 # 42 invites Joe Grand aka Kingpin
