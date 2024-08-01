@@ -61,3 +61,8 @@
 	path = Projects/light-QGIS-plugin-repo
 	url = https://github.com/see7e/light-QGIS-plugin-repo
 	branch = main
+
+[submodule "Leetcode"]
+	path = Projects/leetcode
+	url = https://github.com/see7e/leetcode.git
+	branch = main
